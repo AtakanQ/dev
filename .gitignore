@@ -8,3 +8,4 @@ __pycache__/myModeler_v2.cpython-311.pyc
 __pycache__/myModeler.cpython-311.pyc
 data/cifar-10-python.tar.gz
 data/cifar-10-batches-py/test_batch
+__pycache__/util.cpython-311.pyc
